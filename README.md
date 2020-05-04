@@ -13,7 +13,7 @@ asdasdsad
 
 Moduling && Babeling
 >> 바뀐거 <<<>>>
-hjhj1111111123232322323
+123123123
 
 [project-ex01]
 ES6 for React
