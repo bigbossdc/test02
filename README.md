@@ -1,20 +1,6 @@
 ## 내용 요약
 <pre>
 
-//dadasd
-//asdkasndlaksndlkasndlknasd
-
-
-
-asdasdsad
-
-
-
-
-Moduling && Babeling
->> 바뀐거 <<<>>>
-hhhhhhhhhhhh
-
 [project-ex01]
 ES6 for React
 asdasddddddddddddddasdasdasd
