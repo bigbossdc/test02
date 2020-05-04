@@ -1,20 +1,6 @@
 ## 내용 요약
 <pre>
 
-//dadasd
-//asdkasndlaksndlkasndlknasd
-
-
-
-asdasdsad
-
-
-
-
-Moduling && Babeling
->> 바뀐거 <<<>>>
-123123123
-
 [project-ex01]
 ES6 for React
 asdasddddddddddddddasdasdasd
@@ -45,5 +31,8 @@ App based on ES6 module support
 =====================================
 [project-ex06]
 Bundling as Modules
+
+==============================================
+유남길 소스작업 
 
 </pre>!!!!!!!!!!!!!
